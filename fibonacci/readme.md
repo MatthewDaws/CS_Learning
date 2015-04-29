@@ -1,0 +1,1 @@
+Calculate Fibonaaci numbers using large integer arithmetic (and naive recursive definition instead of e.g. 2x2 matrix trick with repeated squaring) as in https://github.com/UoLPythonGroup/training/tree/master/benchmarking/fibonacci but with C#.  About 10 times slower than C++ / GMP.
